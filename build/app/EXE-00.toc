@@ -417,7 +417,7 @@
  [],
  False,
  False,
- 1750961886,
+ 1750962392,
  [('run.exe',
    'C:\\Users\\user\\Desktop\\xml-generator\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
