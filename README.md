@@ -1,12 +1,16 @@
-# xml-generator
+# XML generator
 This is a lightweight side project to generate XML files.
 
-### Quicky start
+### Quicky dev start
 0. Open the root directory
 1. Activate the virtual environment: venv\Scripts\activate
 2. Install the required packages: pip install -r requirements.txt
 3. Run the program: python src/main.py
 4. The local server will start.
+
+
+### How to build
+0. Run the builder.ps1 file, and the .exe file will appear in the dist folder.
 
 ### Result
 Once the data is filled in, you can copy the XML code, like the example below.
